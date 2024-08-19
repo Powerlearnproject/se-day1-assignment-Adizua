@@ -5,12 +5,21 @@ Software Engineering Day1 Assignment
 #Part 1: Introduction to Software Engineering
 
 Explain what software engineering is and discuss its importance in the technology industry.
+Software Engineering Systematically applies engineering principles, methods, and tools to develop and maintain high-quality software systems
 
 
 Identify and describe at least three key milestones in the evolution of software engineering.
 
 
+ whi
 List and briefly explain the phases of the Software Development Life Cycle.
+Project Planning - this is the phase where the whole project is planned. The goals and Objectives of the Project are Outlined
+Gathering Requirements & Analysis - Here, Analysis of the viability of the project is carrie out. From here, deductions will be carried out which will aid in descision making.
+Design - Here the User-Interface is created and the User Experience is determined.
+Coding or Implementation. ...
+Testing. ...
+Deployment. ...
+Maintenance.
 
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
